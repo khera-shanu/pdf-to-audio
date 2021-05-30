@@ -1,0 +1,2 @@
+pdfreader==0.1.10
+pyttsx3==2.90
